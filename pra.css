@@ -1,0 +1,46 @@
+/* @media (width:400px) {
+    .navbar{
+
+        border: 2px solid black;
+        box-sizing: ;
+    }
+    
+} */
+ .BODY{
+    border: 2px solid black;
+    padding: auto;
+    margin: auto;
+ }
+ .navbar{
+    border: 2px solid black;
+    padding: auto;
+    margin: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    /* size: 60px; */
+    /* justify-content: end; */
+    /* align-items: ; */
+    /* justify-items: ; */
+
+ }
+ .table{
+   margin: auto;
+   padding: auto;
+   height: auto;
+   background-color: aquamarine;
+   box-sizing: border-box;
+ }
+ #mobile number{
+   justify-content: end;
+   color: black;
+   flex-direction: column;
+ }
+ #container{
+    color: aqua;
+    margin-top: 2px;
+    padding-top: 2px;
+    list-style: decimal;
+ }
